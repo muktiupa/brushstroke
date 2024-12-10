@@ -8,7 +8,7 @@ function Navbarminimal() {
     <div className='p-4 w-full bg-[#1E1E1E]  flex justify-between items-center' >
         <Logo/>
         <Navsetfive/>
-        <Userbtn fristName="Mukti Upadhyay"/>
+        <Userbtn/>
     </div>
   )
 }
